@@ -1,7 +1,6 @@
 # GameOfLife
 
 An interactive take on John Conways 'Game of Life' in processing.    
-
 Made as part of an interview for an application as software engineer with the BBC in London. 
   
   
