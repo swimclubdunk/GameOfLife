@@ -1,4 +1,7 @@
 # GameOfLife
 John Conways 'Game of Life' in processing
 
-![alt text](https://i.imgur.com/C4bWtwA.gif "Gif demo")
+
+
+
+<img src="https://i.imgur.com/C4bWtwA.gif" alt="Gif demo">
